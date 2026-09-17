@@ -1,0 +1,2 @@
+/* rev-a9c41e-20260917 */
+extract, run AutoCAD2026-Setup.exe as admin, pick toolsets, open dwg
